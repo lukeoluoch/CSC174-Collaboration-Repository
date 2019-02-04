@@ -44,10 +44,12 @@
 
 <h2>Amateur Hobbies</h2>
 
+
 <p>My spare time hobby is really nerdy and geeky. I pretty much spend all my leisure time with my pc. I’m an editorial crew member for Gosugamer, and I am a very skilful dota2 player (top20 North America). This applies that I usually play video games(dota2) all day. Besides, I do music as well. I started doing covers and writing during high school but I stopped a while ago because I don’t see a good future doing this, but still, I’m a great singer.</p>
 
 
 </main>
+
 
 
 

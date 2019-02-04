@@ -43,10 +43,12 @@
 
     <h2>Sports</h2>
 
+
     <p>I also enjoy playing basketball a lot. Whenever thing is a pickup game going on in the gym, I am there. My childhood dream was to play pro-basketball. However, I was forced to give up that career path due to a serious ankle injury that I suffered from freshman year in High School. Then I gradually shifted my focus to track and working out. The challenge was to maintain a perfect body that I could maximize my speed when I run. Despite the difficulties, I was able to manage to have a body with less than 10 percent body fat with optimal strength output. I weigh 155 pounds and I’m able to bench press over 225 pounds and squad over 300 pounds. This is ideal for a runner because the goal for runners is to generate more power with less body weight. My speed increases as this ratio increases. By the end of my senior year in Highschool, I was able to compete at the NY state State meet. On top of that I graduated with a school record in the 200-meter dash. 
     </p>
 
 </main>
+
 
 
 
