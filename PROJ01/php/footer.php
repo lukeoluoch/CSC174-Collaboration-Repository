@@ -8,7 +8,7 @@ echo
 	<ul>
 		<li><a href=\"index.php\">Home</a></li>
 		<li><a href=\"mingyuan.php\">Mingyuan</a></li>
-		<li><a href=\"nan.php\"></a>Nan Xie</li>
+		<li><a href=\"nan.php\">Nan Xie</a></li>
 		<li><a href=\"shawn.php\">Shawn Chen</a></li>
 	</ul>
 </nav>
