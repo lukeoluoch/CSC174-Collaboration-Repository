@@ -22,6 +22,7 @@
      <li>Senior in University of Rochester</li>
      <li>Novice CSS skills</li>
      <li>Gosugamer Editorial Crew</li>
+     <a href="http://hchen67.digitalscholar.rochester.edu/csc174/lab01/"><li>Original Website</li></a>
   </ul>
 
 </aside>
