@@ -21,6 +21,7 @@
       <li>first year student</li>
       <li>oldest kid at home </li>
       <li>student athlete</li>
+      <a href="http://nxie2.digitalscholar.rochester.edu/174lab01/index.php"><li>Original Website</li></a>
     </ul>
   </aside>
 

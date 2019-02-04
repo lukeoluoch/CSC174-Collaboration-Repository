@@ -21,6 +21,7 @@
         <li>University of Rochester</li>
         <li>Computer Science</li>
         <li>CSC174</li>
+        <a href="http://mingyuanshan.digitalscholar.rochester.edu/lab01/index.php"><li>Original Website</li></a>
     </ul>
 </aside>
 
