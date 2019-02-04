@@ -9,7 +9,7 @@
 
   <a href="index.php">
      <h1>Team NY</h1>
-     <img src="images/something here" alt="Home">
+     <img src="prof" alt="Home">
   </a>
 
 </header>
@@ -19,9 +19,9 @@
 <aside>
 
   <ul>
-     <li></li>
-     <li></li>
-     <li></li>
+     <li>Ming Yuan</li>
+     <li>Nan Xie</li>
+     <li>Shawn Chen</li>
   </ul>
 
 </aside>
@@ -30,7 +30,7 @@
 
 <main>
 
-<p></p>
+<p>This is Assignment 2</p>
 
 </main>
 
