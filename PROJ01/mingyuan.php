@@ -59,16 +59,6 @@
         <li>Asrock Z390 Taichi</li>
         <li>EVGA SuperNOVA 750 G3</li>
     </ul>
-</main>
-
-
-
-    <h2>Hobbies</h2>
-
-    <h2>Experiences</h2>
-
-    <h2>Set Up</h2>
-
     
     <p>
         I have been working as free lancing translator and proofreader for various channels and software in the past.
