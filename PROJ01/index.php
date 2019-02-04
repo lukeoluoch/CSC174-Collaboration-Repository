@@ -9,7 +9,7 @@
 
   <a href="index.php">
      <h1>Team NY</h1>
-     <img src="prof" alt="Home">
+     <img src="prof.png" alt="Home">
   </a>
 
 </header>
