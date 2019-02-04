@@ -8,7 +8,7 @@
 <header>
 
   <a href="index.php">
-     <h1>Ming Yuan| New York | lab 02</h1>
+     <h1>Ming Yuan</h1>
      <img src="images/cat.png" alt="cat">
   </a>
 
