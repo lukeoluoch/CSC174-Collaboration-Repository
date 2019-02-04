@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-	<meta charset="utf-8">
-	<title>Ming Yuan| New York | lab 02</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php include "php/head.php";?>
 
 <body class="container">
 
