@@ -36,14 +36,7 @@
 
 
 
-<footer>
-CSC174--Advanced Front-end Web Design and Development
-</footer>
-
-
-<?php include "inc/nav.inc"; ?>
-
-<?php include "inc/scripts.inc"; ?>
+<?php include "php/footer.php";?>
 
 
 
