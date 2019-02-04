@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-	<meta charset="utf-8">
-	<title>Home | New York | lab 02</title>
-	<link rel="stylesheet" href="css/styles.css">
-</head>
+<?php include "php/head.php";?>
 
 <body class="container">
 
@@ -40,14 +36,7 @@
 
 
 
-<footer>
-CSC174--Advanced Front-end Web Design and Development
-</footer>
-
-
-<?php include "inc/nav.inc"; ?>
-
-<?php include "inc/scripts.inc"; ?>
+<?php include "php/footer.php";?>
 
 
 
