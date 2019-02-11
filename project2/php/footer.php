@@ -1,5 +1,5 @@
 <footer>
-    <h3>CSC 174: Advanced Front-end Web Design and Development </h3>
+    <p>CSC 174: Advanced Front-end Web Design and Development </p>
 </footer>
 <nav>
     <ul>
