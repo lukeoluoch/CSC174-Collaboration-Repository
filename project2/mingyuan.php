@@ -3,9 +3,9 @@
 <html lang="en">
 
 <head>
-    <meta charset=\"utf-8\">
+    <meta charset="utf-8">
     <title>Mingyuan | New York | Assignment 03</title>
-    <link rel=\"stylesheet\" href=\"css/styles.css\">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body class="container">
