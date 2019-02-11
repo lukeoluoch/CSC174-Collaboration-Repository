@@ -12,16 +12,21 @@
 
 <header>
 
-<<<<<<< HEAD
+
   <a href="index.php">
      <h1>Team NY</h1>
      <img src="images/ny.png" alt="New York">
   </a>
-=======
+
     <a href="index.php">
         <h1>Team NY</h1>
     </a>
->>>>>>> c30d1d28cf3e977a431b2be33b5f0c4f247180a6
+
+
+    <a href="index.php">
+        <h1>Team NY</h1>
+    </a>
+
 
 </header>
 
@@ -38,16 +43,17 @@
 
 <main>
 
-<<<<<<< HEAD
+
 <h2>This is Assignment 3</h2>
 
-=======
-    <h2>This is Assignment 2</h2>
+    <h2>This is Assignment 3</h2>
 
     <h2>City</h2>
->>>>>>> c30d1d28cf3e977a431b2be33b5f0c4f247180a6
+
 
     <p>New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.</p>
+
+
 
     <h2>Contents</h2>
 
