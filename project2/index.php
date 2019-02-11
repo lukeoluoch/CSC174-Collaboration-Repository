@@ -18,14 +18,6 @@
      <img src="images/ny.png" alt="New York">
   </a>
 
-    <a href="index.php">
-        <h1>Team NY</h1>
-    </a>
-
-
-    <a href="index.php">
-        <h1>Team NY</h1>
-    </a>
 
 
 </header>
