@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dba71c96-9829-4140-b8b2-5a81902868e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../project2/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/js/menu-highlighter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../project2/php/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/js/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/mingyuan.php" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/mingyuan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/nan.php" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/nan.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/php/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/shawn.php" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/shawn.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +49,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
               <caret line="9" column="35" selection-start-line="8" selection-end-line="9" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/menu-highlighter.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="38" lean-forward="true" selection-end-line="54" selection-end-column="3" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -94,9 +116,10 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="height" value="947" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -114,6 +137,11 @@
             <path>
               <item name="PROJ01" type="b2602c69:ProjectViewProjectNode" />
               <item name="PROJ01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PROJ01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PROJ01" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -153,16 +181,18 @@
       <updated>1549296035675</updated>
       <workItem from="1549296037181" duration="9318000" />
       <workItem from="1549820914187" duration="448000" />
+      <workItem from="1549850614545" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9766000" />
+    <option name="totallyTimeSpent" value="9817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25274727" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25579977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -244,6 +274,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="35" selection-start-line="8" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/menu-highlighter.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="38" lean-forward="true" selection-end-line="54" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

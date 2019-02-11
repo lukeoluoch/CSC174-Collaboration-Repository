@@ -2,7 +2,11 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<?php include "php/head.php";?>
+<head>
+    <meta charset=\"utf-8\">
+    <title>Nan | New York | Assignment 03</title>
+    <link rel=\"stylesheet\" href=\"css/styles.css\">
+</head>
 
 <body class="container">
 
