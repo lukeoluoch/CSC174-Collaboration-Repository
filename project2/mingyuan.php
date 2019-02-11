@@ -69,8 +69,7 @@
 
 
 
-<?php include "php/footer.php";?>
-
+<?php include "inc/head.inc";?>
 
 
 

@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dba71c96-9829-4140-b8b2-5a81902868e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../project2/inc/head.inc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/inc/test" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../project2/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project2/mingyuan.php" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/mingyuan.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../project2/nan.php" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/nan.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../project2/php/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/php/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/php/footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/shawn.php" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/shawn.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -189,12 +193,12 @@
       <updated>1549296035675</updated>
       <workItem from="1549296037181" duration="9318000" />
       <workItem from="1549820914187" duration="448000" />
-      <workItem from="1549850614545" duration="860000" />
+      <workItem from="1549850614545" duration="1177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10626000" />
+    <option name="totallyTimeSpent" value="10943000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />

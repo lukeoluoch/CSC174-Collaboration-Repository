@@ -91,7 +91,7 @@ Further influences include Marvin Gaye, Stevie Wonder, Boyz II Men, Black Sabbat
 	<li>Back from the Edge (2016)</li>
 </ul>
 
-<?php include "php/footer.php";?>
+<?php include "inc/head.inc";?>
 
 
 
