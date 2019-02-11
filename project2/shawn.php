@@ -3,7 +3,7 @@
 <html lang="en">
 
 <head>
-    <meta charset=\"utf-8\">
+    <meta charset="utf-8">
     <title>Shawn | New York | Assignment 03</title>
     <link rel="stylesheet" href="css/styles.css">
 </head>
@@ -91,7 +91,7 @@ Further influences include Marvin Gaye, Stevie Wonder, Boyz II Men, Black Sabbat
 	<li>Back from the Edge (2016)</li>
 </ul>
 
-<?php include "inc/head.inc";?>
+<?php include "inc/foot.inc";?>
 
 
 

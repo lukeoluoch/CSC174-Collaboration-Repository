@@ -66,7 +66,7 @@
 
 
 
-<?php include "inc/head.inc";?>
+<?php include "inc/foot.inc";?>
 
 
 
