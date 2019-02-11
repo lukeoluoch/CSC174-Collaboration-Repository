@@ -7,6 +7,7 @@
 ## Animals that live at home
 ### Where in home do they live?
 
+ #### Raccoons 
  Most commonly the attic, sometimes in the walls or under a house.
  
  #### Squirrels
