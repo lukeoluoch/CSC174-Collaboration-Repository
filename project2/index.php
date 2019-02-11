@@ -39,14 +39,14 @@
 <h2>This is Assignment 3</h2>
 
 
-    <h2>City</h2>
+    <h2>About the City</h2>
 
 
     <p>New York City comprises 5 boroughs sitting where the Hudson River meets the Atlantic Ocean. At its core is Manhattan, a densely populated borough that’s among the world’s major commercial, financial and cultural centers. Its iconic sites include skyscrapers such as the Empire State Building and sprawling Central Park. Broadway theater is staged in neon-lit Times Square.</p>
 
 
 
-    <h2>Contents</h2>
+    <h2>Our Contents</h2>
 
     <p>This is a website of animals, musicians and video games.</p>
 
