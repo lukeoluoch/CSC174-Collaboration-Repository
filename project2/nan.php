@@ -14,13 +14,13 @@
 
   <a href="index.php">
      <h1>Team NY</h1>
-     
+     <img src="images/dog.jpg" alt="Dog">
   </a>
 
 </header>
 
 <aside>
-<h2> Basic Information </h2>
+  <h1>Basic Information</h1>
   <ul>
      <li>Nan Xie</li>
      <li>Lab03 Markdown assignment</li>

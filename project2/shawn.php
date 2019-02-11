@@ -5,7 +5,7 @@
 <head>
     <meta charset=\"utf-8\">
     <title>Shawn | New York | Assignment 03</title>
-    <link rel=\"stylesheet\" href=\"css/styles.css\">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body class="container">
 
@@ -13,7 +13,7 @@
 
   <a href="index.php">
      <h1>Team NY</h1>
-     
+     <img src="images/coldplay.jpg" alt="Coldplay">
   </a>
 
 </header>

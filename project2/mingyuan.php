@@ -14,13 +14,14 @@
 
   <a href="index.php">
      <h1>Team NY</h1>
+     <img src="images/dv2.png" alt="Divinity 2">
      
   </a>
 
 </header>
 
 <aside>
-<h1> Iconic Video Game </h1>
+  <h1>Iconic Video Games</h1>
   <ul>
      <li>Mingyuan Shan</li>
      <li>Assignment 3</li>

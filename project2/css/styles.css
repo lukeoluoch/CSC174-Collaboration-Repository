@@ -1,0 +1,96 @@
+
+/* header * {border: 1px solid hotpink; padding: 2px;}*/
+	
+
+header a {
+	display: block;
+	position: relative;
+}
+
+header h1 {transform: rotate(-90deg);
+			position: absolute;
+			z-index: 100;
+			top: 75px;
+			left: -45px;
+			font-family: monospace;}
+
+img {
+	margin-left: 40px;
+}
+
+
+
+ h2 {font-family: "Comic Sans MS", cursive, sans-serif;}
+
+.container{
+	margin: 0 auto;
+	width: 90%;
+	max-width: 1000px;
+	padding-top: 20px;
+	margin-top: 20px;
+	justify-content: center;
+
+	display: grid;
+	grid-template-columns: 200px 2fr 200px;
+
+}
+
+.is-current {
+	background-color: black;
+	color: white;
+}
+
+
+header {
+		grid-column: 1/2;
+}
+
+aside {
+	grid-column: 2/4;
+	align-self: end;
+	margin-left: 3%;
+}
+
+aside h1 {
+	margin-left: 40px;
+}
+
+main{
+	grid-column: 1/4;
+}
+
+footer{
+	grid-column: 1/2;
+	font-size: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+nav{
+	grid-column: 2/4;
+}
+
+nav ul{
+	display: flex;
+	justify-content: flex-end;
+	font-size: 15px;
+	
+}
+
+nav li{
+	margin-left: 20px;
+	list-style-type: none;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+nav ul li a{text-decoration: none;}
+
+aside li{list-style-type: none;}
+
+p, aside {font-family: "Comic Sans MS", cursive, sans-serif;}
+
+li {
+	font-style: italic;
+}
+
+
