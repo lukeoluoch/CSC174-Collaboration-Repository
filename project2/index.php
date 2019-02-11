@@ -38,7 +38,6 @@
 
 <h2>This is Assignment 3</h2>
 
-    <h2>This is Assignment 3</h2>
 
     <h2>City</h2>
 
