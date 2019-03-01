@@ -1,38 +1,87 @@
 
-/* header * {border: 1px solid hotpink; padding: 2px;}*/
-	
+@font-face {
+	font-family: "Arcade";
+	src: url(../typeface/ARCADECLASSIC.TTF);
+  }
+  
+@font-face {
+	font-family: "PacMan";
+	src: url(../typeface/PacMan.ttf);
+  }
 
-header a {
-	display: block;
-	position: relative;
+
+
+header {
+	/* display: grid;
+	grid-template-columns: 1fr 1fr 1fr; */
+	text-align: center;
+	top: 0;
+
 }
-
-header h1 {transform: rotate(-90deg);
-			position: absolute;
-			z-index: 100;
-			top: 75px;
-			left: -45px;
-			font-family: monospace;}
+.pagetitle{
+	font-size: 36pt;
+	font-family: "PacMan";	
+}
+/* header h1 {
+	transform: rotate(-90deg);
+	position: absolute;
+	z-index: 100;
+	top: 75px;
+	left: -45px;
+	font-family: monospace;
+		} */
 
 img {
-	margin-left: 40px;
+	margin: auto;
 }
 
 
 
- h2 {font-family: "Comic Sans MS", cursive, sans-serif;}
+ h1, h2 {
+	 font-family: 'Arcade';
+	 letter-spacing: 1px;
+ }
+
+ #dragon{
+	grid-column: 1/2;
+	background-color: rgb(255, 176, 176);
+ }
+ #dragon:hover{
+	background-color: rgb(250, 121, 121);
+}
+#bioshock{
+	grid-column: 2/3;
+	background-color: rgb(176, 252, 255);
+}
+#bioshock:hover{
+	background-color: rgb(79, 239, 245);
+}
+#divinity{
+	grid-column: 3/4;
+	background-color: rgb(212, 212, 212);
+
+}
+#divinity:hover{
+	background-color: rgb(156, 156, 156);
+}
+.games{
+	border: black 1px solid;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+	transition: 0.3s;
+	padding: 5px;
+	margin: 5px;
+	border-radius: 10px 10px 10px 10px;
+}
+.games:hover{
+	box-shadow: 0 16px 32px 0 rgba(0,0,0,0.5);
+}
 
 .container{
 	margin: 0 auto;
 	width: 90%;
-	max-width: 1000px;
-	padding-top: 20px;
+	/* padding-top: 20px; */
 	margin-top: 20px;
 	justify-content: center;
-
-	display: grid;
-	grid-template-columns: 200px 2fr 200px;
-
 }
 
 .is-current {
@@ -40,10 +89,16 @@ img {
 	color: white;
 }
 
-
-header {
-		grid-column: 1/2;
+#top-left{
+position:absolute;
+top:0;
+left: 2.5%;
 }
+#top-right{
+position:absolute;
+top:0;
+right:5%;
+	}
 
 aside {
 	grid-column: 2/4;
@@ -55,8 +110,11 @@ aside h1 {
 	margin-left: 40px;
 }
 
-main{
-	grid-column: 1/4;
+.content{
+	/* grid-column: 1/4; */
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+
 }
 
 footer{
@@ -87,7 +145,9 @@ nav ul li a{text-decoration: none;}
 
 aside li{list-style-type: none;}
 
-p, aside {font-family: "Comic Sans MS", cursive, sans-serif;}
+p, aside {
+	font-family: Verdana, Geneva, Tahoma, sans-serif
+}
 
 li {
 	font-style: italic;
